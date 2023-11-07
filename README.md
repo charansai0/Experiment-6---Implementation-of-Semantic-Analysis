@@ -4,7 +4,7 @@
 
 ## Algorithm:
 ```
- 1.Import the necessary libraries: nltk and wordnet.
+1.Import the necessary libraries: nltk and wordnet.
 2.Define a function get_verbs(sentence) to identify verbs in a given sentence using part-of-speech tagging.
 3.Define a function get_synonyms(word) to get synonyms for a given word using the WordNet corpus.
 4.Define a function read_text_file(file_path) to read text from a file and return the content as a string.
